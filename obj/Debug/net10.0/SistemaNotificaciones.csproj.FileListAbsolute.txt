@@ -1,0 +1,14 @@
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.exe
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.deps.json
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.runtimeconfig.json
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.dll
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.pdb
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.AssemblyInfoInputs.cache
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.AssemblyInfo.cs
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.csproj.CoreCompileInputs.cache
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.dll
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\refint\SistemaNotificaciones.dll
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.pdb
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.genruntimeconfig.cache
+C:\Proyectos\Parcial\Ejercicio 2\SistemaNotificaciones\obj\Debug\net10.0\ref\SistemaNotificaciones.dll
